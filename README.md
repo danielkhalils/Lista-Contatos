@@ -1,6 +1,6 @@
-# flutter_crud
+# Lista-Contatos
 
-Projeto desenvolvido através do curso no professor Nélio Alves no Youtube.
+Projeto desenvolvido através do curso do canal Cod3r Cursos no Youtube.
 
 ## Getting Started
 
