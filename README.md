@@ -1,6 +1,6 @@
 # flutter_crud
 
-A new Flutter project.
+Projeto desenvolvido através do curso no professor Nélio Alves no Youtube.
 
 ## Getting Started
 
